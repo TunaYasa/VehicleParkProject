@@ -1,4 +1,4 @@
-package hw2;
+package project;
 
 public class Truck extends Vehicle {
 	private double mass;
