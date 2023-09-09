@@ -1,4 +1,4 @@
-package hw2;
+package project;
 
 public class Motorcycle extends Vehicle implements Rentable {
 	private String type;
