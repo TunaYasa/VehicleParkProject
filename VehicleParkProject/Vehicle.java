@@ -1,4 +1,4 @@
-package hw2;
+package project;
 
 public abstract class Vehicle {
 	protected String licensePlateNumber;
