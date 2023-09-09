@@ -1,4 +1,4 @@
-package hw2;
+package project;
 
 public class Main {
 
